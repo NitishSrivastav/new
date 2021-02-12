@@ -1,15 +1,15 @@
 {
-  "name": "version",
+  "name": "tranzita",
   "version": "1.0.0",
-  "description": "This is transita assesment",
-  "main": "npm i express",
+  "description": "",
+  "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.7"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "cd"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC"
